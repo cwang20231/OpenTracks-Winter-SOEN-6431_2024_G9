@@ -44,6 +44,7 @@ import de.dennisguse.opentracks.util.IntentUtils;
  * An activity to import files from the external storage.
  *
  * @author Rodrigo Damazio
+ * added
  */
 public class ImportActivity extends FragmentActivity {
 
