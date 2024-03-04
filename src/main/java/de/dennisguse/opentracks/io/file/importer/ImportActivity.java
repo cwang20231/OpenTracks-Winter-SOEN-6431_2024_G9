@@ -45,6 +45,9 @@ import de.dennisguse.opentracks.util.IntentUtils;
  *
  * @author Rodrigo Damazio
  * added
+ *
+ * v2
+ *
  */
 public class ImportActivity extends FragmentActivity {
 
